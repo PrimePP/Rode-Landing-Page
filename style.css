@@ -1,0 +1,78 @@
+/* Google font */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+/* Nav and top */
+.gps-image{
+    width:20px;
+}
+.languages{
+    font-size: 12px;
+    border: none;
+}
+
+
+.mag-glass{
+    width: 20px;
+}
+
+.nav-log{
+    width: 80px;
+}
+.nav-items{
+    font-size: 14px;
+}
+
+.mag-glass-one{
+    width: 20px;
+}
+
+.languages-small{
+    font-weight: 600;
+}
+
+.ham-menu{
+    width: 20px;
+    margin-left: 15%;
+}
+
+.icon-f{
+    color:#AD9970;
+    cursor:grab;
+}
+
+
+@media screen and (min-width:1000px){
+    #f-sec{
+        background-image: url("images/sec-1-img.jpg");
+        height: 100vh;
+        background-position: center;
+        background-size: cover;
+    }
+    #two-sec{
+        background-image: url("./images/section-2-img.jpg");
+        height: 100vh;
+        background-position: center;
+        background-size: cover;
+    }
+    #three-sec{
+        background-image: url("./images/section-3-img.jpg");
+        height: 100vh;
+        background-position: center;
+        background-size: cover;
+    }
+    #four-sec{
+        background-image: url("./images/sec-4-img.jpg");
+        height: 100vh;
+        background-position: center;
+        background-size: cover;
+    }
+    #five-sec{
+        background-image: url("./images/sec-5-img.jpg");
+        height: 100vh;
+        background-position: center;
+        background-size: cover;
+    }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "rode-tailwind",
+  "version": "1.0.1",
+  "description": "Responsive landing page of rode",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "html",
+    "tailwindCSS"
+  ],
+  "author": "Pritam Pal",
+  "license": "ISC"
+}
