@@ -19,7 +19,7 @@ Screen Sizes
 - VSCode for coding
 - Personal Learnings in this project 
     - TailwindCSS
-- Deployed on *Vercel*  **[ClickMe]()** 
+- Deployed on *Vercel*  **[ClickMe](https://rode-landing-page-clone.vercel.app/)** 
 *** 
 #### About Author
 ![AuthorImage](./circle-profile-pic.png)
